@@ -5,13 +5,13 @@ import json
 from transformers import DonutProcessor,VisionEncoderDecoderModel
 image = Image.open("data/patient_information_form.png").convert('RGB')
 
-json_path = "data/patient_2_form.json"
+json_path = "data/patient_3_form.json"
 
 
 class donut_ocr():
-
     def __init__(self):
         self.outputs = {}
+
     def  classify_doc(self,image):
         # load the processor
         processor = DonutProcessor.from_pretrained("naver-clova-ix/donut-base-finetuned-rvlcdip")
@@ -51,8 +51,9 @@ class donut_ocr():
 
         #convert the reponse to json
         self.result = processor.token2json(seq)
+        #inserting the class output in  json
         self.outputs['class'] = self.result
-
+        #just printing the class result
         print(self.result['class'])
 
     def parsing_doc(self,image):
