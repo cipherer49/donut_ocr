@@ -2,7 +2,7 @@ import os
 import json
 
 # Load the JSON file
-json_file_path = 'data/paddle_page_15.json'
+json_file_path = 'data/reimbursement/paddle_page_1.json'
 def get_data():
     with open(json_file_path, 'r') as json_file:
         data = json.load(json_file)
@@ -23,7 +23,7 @@ def get_data():
                 extracted_lines.append(text_lines[i + 1])
 
     # Load existing extracted text if the file exists
-    got_data_path = "data/paddle_query_page_15.json"
+    got_data_path = "data/reimbursement/paddle_query_page_1.json"
     if os.path.exists(got_data_path):
         with open(got_data_path, 'r') as json_file:
             existing_data = json.load(json_file)

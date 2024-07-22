@@ -1,0 +1,28 @@
+{
+    "full query name": [
+        "Name",
+        "Ms.AKSHITA",
+        "Test Name",
+        "Results"
+    ],
+    "full query gender": [
+        "Gender",
+        ":"
+    ],
+    "full query vitamin d": [
+        "VITAMIN D,25-HYDROXY,SERUM",
+        "107.10",
+        "Vitamin D concentration",
+        "Parathyroid hormone",
+        "The assay measures both D2 Ergocalciferol) and D3 Cholecalciferol) metabolites of vitamin D",
+        "25 OHD is infiuenced by sunlight latitudeskin pigmentationsunscreen use and hepatic function.",
+        "Optimal calcium absorption requires vitamin D 25 (OH) levels exceeding 75 nmol/L",
+        "it shows seasonal variation, with values being 40-50% lower in winter than in summer",
+        "A new test Vitamin D.Ultrasensitive by LC-MS/MS is also available",
+        "Comments",
+        "Vitamin D promotes absorption of calcium and phosphorus and mineralization of bones and teeth. Deficiency",
+        "in children causes Rickets and in adults leads to Osteomalacia. It can also lead to Hypocalcemia and",
+        "Tetany. Vitamin D status is best determined by measurement of 25 hydroxy vitamin D.as it is the major",
+        "Decreased Levels"
+    ]
+}

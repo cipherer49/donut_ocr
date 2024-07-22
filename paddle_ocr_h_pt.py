@@ -6,10 +6,10 @@ from paddleocr import PaddleOCR, draw_ocr
 #defining image path and json path(to store extract data)
 
 #image path(jpg,png)1
-img = 'data/page_15.jpg'
+img = 'data/reimbursement/page_1.jpg'
 
 #saving printed text json_file path1
-et_json_path = 'data/paddle_page_15.json'
+et_json_path = 'data/reimbursement/paddle_page_1.json'
 
 
 class ocr_image_and_pdf ():
@@ -81,7 +81,7 @@ class ocr_image_and_pdf ():
                     extracted_lines.append(text_lines[i + 1])
 
         # Load existing extracted text if the file exists
-        got_data_path = "data/paddle_query_page_15.json"
+        got_data_path = "data/reimbursement/paddle_query_page_1.json"
         if os.path.exists(got_data_path):
             with open(got_data_path, 'r') as json_file:
                 existing_data = json.load(json_file)
