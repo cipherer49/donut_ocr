@@ -2,7 +2,7 @@ import torch
 from PIL import Image
 import re
 from transformers import DonutProcessor,VisionEncoderDecoderModel
-image = Image.open("data/patient_information_form.png").convert('RGB')
+image = Image.open("data/haematology.png").convert('RGB')
 
 # load the processor
 processor = DonutProcessor.from_pretrained("naver-clova-ix/donut-base-finetuned-rvlcdip")
