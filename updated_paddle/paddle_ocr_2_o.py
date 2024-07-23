@@ -4,9 +4,9 @@ import difflib
 from paddleocr import PaddleOCR
 
 #path of images and json
-img_path = 'data/page_21.jpg'
-ocr_json_path = 'data/new_paddle_ext_data/check_new_page_21.json'
-ocr_query_json_path = 'data/new_paddle_ext_data/query_new_page_21.json'
+img_path = 'data/page_3.jpg'
+ocr_json_path = 'data/new_paddle_ext_data/check_new_page_3.json'
+ocr_query_json_path = 'data/new_paddle_ext_data/query_new_page_3.json'
 #writing a class to fit all functions
 class all_func():
 
@@ -17,7 +17,7 @@ class all_func():
 
     def all_ocr(self):
         # Initialize PaddleOCR with language support (e.g., English)
-        ocr = PaddleOCR(use_angle_cls=True, lang='en')
+        ocr = PaddleOCR(use_angle_cls=True, lang='en',use_gpu=True)
 
         #perform ocr on the image 
         ocr_result = ocr.ocr(img_path,cls =True)
@@ -148,7 +148,7 @@ class all_func():
             self.get_data()
 
 
-#running the query
+#running the code
 run = all_func()
 
 run.all_ocr()
