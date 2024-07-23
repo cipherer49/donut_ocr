@@ -4,9 +4,9 @@ import difflib
 from paddleocr import PaddleOCR
 
 #path of images and json
-img_path = 'data/page_6.jpg'
-ocr_json_path = 'check_new_page_6.json'
-ocr_query_json_path = 'query_new_page_6.json'
+img_path = 'data/page_21.jpg'
+ocr_json_path = 'data/new_paddle_ext_data/check_new_page_21.json'
+ocr_query_json_path = 'data/new_paddle_ext_data/query_new_page_21.json'
 #writing a class to fit all functions
 class all_func():
 
