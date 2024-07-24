@@ -21,6 +21,6 @@ def pdf_to_jpg(pdf_path, output_folder):
     pdf_document.close()
 
 # Example usage
-pdf_path = 'donut_ocr/data/reimbursement/reimbursement.pdf'
-output_folder = 'donut_ocr/data/reimbursement/'
+pdf_path = 'donut_ocr/data/more_files/medical_bill.pdf'
+output_folder = 'donut_ocr/data/more_files/'
 pdf_to_jpg(pdf_path, output_folder)

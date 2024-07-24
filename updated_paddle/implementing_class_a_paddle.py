@@ -1,17 +1,64 @@
 import json
+import torch
 import os
 import difflib
+import re
 from paddleocr import PaddleOCR
-
+from PIL import Image
+from transformers import DonutProcessor,VisionEncoderDecoderModel
+os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 #path of images and json
-img_path = 'data/more_files/medical_bill_r_c.jpg'
+img =  Image.open("data/more_files/medical_bill_r_c.jpg").convert('RGB')# for  donut  class converted mode = rgb
+img_path = "data/more_files/medical_bill_r_c.jpg" #mode = default path for paddle
 ocr_json_path = 'data/more_files/medical_bill_r_c_paddle.json'
 ocr_query_json_path = 'data/more_files/medical_bill_r_c_query.json'
 #writing a class to fit all functions
 class all_func():
 
 
+    def classifier_donut(self):
+         # load the processor
+        processor = DonutProcessor.from_pretrained("naver-clova-ix/donut-base-finetuned-rvlcdip")
+        #load the model
+        model = VisionEncoderDecoderModel.from_pretrained("naver-clova-ix/donut-base-finetuned-rvlcdip")
+        #print(torch.cuda.is_available())
 
+        #preparing the image
+        pixel_values = processor(img,return_tensors="pt").pixel_values
+
+        #create prompt for document classification task
+        task_prompt = "<s_rvlcdip>"
+        decoder_input_ids = processor.tokenizer(task_prompt,add_special_tokens=False,return_tensors="pt")["input_ids"]
+
+
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+
+        model.to(device)
+
+        #generate output
+        outputs = model.generate(pixel_values.to(device),
+        decoder_input_ids=decoder_input_ids.to(device),
+        max_length=model.decoder.config.max_position_embeddings,
+        early_stopping=True,
+        pad_token_id=processor.tokenizer.pad_token_id,
+        eos_token_id=processor.tokenizer.eos_token_id,
+        use_cache=True,
+        num_beams = 1,
+        bad_words_ids=[[processor.tokenizer.unk_token_id]],
+        return_dict_in_generate=True,
+        output_scores=True)
+
+        #clean the response
+        seq = processor.batch_decode(outputs.sequences)[0]
+        seq = seq.replace(processor.tokenizer.eos_token,"").replace(processor.tokenizer.pad_token,"")
+        seq = re.sub(r"<.*?>","",seq,count=1).strip()
+
+        #convert the reponse to json
+        self.result = processor.token2json(seq)
+        #inserting the class output in  json
+        outputs['class'] = self.result
+        #just printing the class result
+        print(self.result['class'])
 
     #writing function to do any ocr(handwritten and printed text)
 
@@ -150,17 +197,10 @@ class all_func():
 
 #running the code
 run = all_func()
+run.classifier_donut()
 
 run.all_ocr()
 run.get_data()
 
-
-
-
-
-
-
-
-    
 
 

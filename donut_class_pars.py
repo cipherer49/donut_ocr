@@ -3,9 +3,10 @@ from PIL import Image
 import re
 import json
 from transformers import DonutProcessor,VisionEncoderDecoderModel
-image = Image.open("data/page_6.jpg").convert('RGB')
+image = Image.open("data/more_files/medical_bill_r_c.jpg").convert('RGB')
 
-json_path = "data/page_6.json"
+json_path = "data/more_files/medical_bill_r_c_donut.json"
+
 
 
 class donut_ocr():
@@ -59,7 +60,7 @@ class donut_ocr():
     def parsing_doc(self,image):
 
         #writing a if  statement to check  if file class matches
-        if self.result == {"class": "invoice"} or self.result == {"class":"form"} or self.result == {"class":"scientific_report"} or self.result=={"class":"specification"}:
+        if self.result == {"class": "invoice"} or self.result == {"class":"form"} or self.result == {"class":"scientific_report"} or self.result=={"class":"specification"} or self.result=={"class":"letter"} or self.result=={"class":"file_folder"}:
 
             # load the processor
             processor = DonutProcessor.from_pretrained("naver-clova-ix/donut-base-finetuned-cord-v2")

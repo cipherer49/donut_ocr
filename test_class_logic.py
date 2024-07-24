@@ -1,14 +1,8 @@
-class a():
-    def happy(self):
-        self.c = "dew"
-    def bye(self):
-        print(self.c)
-    def cart(self):
-        word = self.happy()
-        
+def a():
+    ar = 10
+    br = 20
+def b():
+    a()
+    print(a,b)
 
-
-k =a()
-k.happy()
-k.cart()
-k.bye()
+a()
