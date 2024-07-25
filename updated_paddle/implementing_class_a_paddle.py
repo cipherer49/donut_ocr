@@ -10,13 +10,14 @@ os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 #path of images and json
 img =  Image.open("data/more_files/medical_bill_r_c.jpg").convert('RGB')# for  donut  class converted mode = rgb
 img_path = "data/more_files/medical_bill_r_c.jpg" #mode = default path for paddle
-ocr_json_path = 'data/more_files/medical_bill_r_c_paddle.json'
+ocr_json_path = 'medical_bill_r_c_paddle.json'
 ocr_query_json_path = 'data/more_files/medical_bill_r_c_query.json'
 #writing a class to fit all functions
 class all_func():
+    
 
 
-    def classifier_donut(self):
+    '''def classifier_donut(self):
          # load the processor
         processor = DonutProcessor.from_pretrained("naver-clova-ix/donut-base-finetuned-rvlcdip")
         #load the model
@@ -58,7 +59,47 @@ class all_func():
         #inserting the class output in  json
         outputs['class'] = self.result
         #just printing the class result
-        print(self.result['class'])
+        print(self.result['class'])'''
+
+    #implementing paddle document classifier
+
+    def paddle_doc_classifier(self):
+        ocr = PaddleOCR(use_angle_cls=True, lang='en',use_gpu=True)
+        # Perform OCR on the image
+        ocr_result = ocr.ocr(img_path, cls=True)
+
+        # Extract recognized text
+        recognized_text = " ".join([line[1][0] for line in ocr_result[0]])
+
+
+        # Document Classification Function
+        def classify_document(text):
+            if "invoice" in text.lower():
+                return "Invoice"
+            elif "resume" in text.lower():
+                return "Resume"
+            elif "report" in text.lower():
+                return "Report"
+            else:
+                return "Unknown Document Type"
+
+        # Classify the document based on recognized text
+        document_type = classify_document(recognized_text)
+        print(f"Document Type: {document_type}")
+
+        self.class_lines = []
+        self.class_lines.append(document_type)
+
+        
+        
+        
+        
+        
+
+
+
+
+
 
     #writing function to do any ocr(handwritten and printed text)
 
@@ -98,17 +139,16 @@ class all_func():
 
 
         # Combine words in each group into a single line, sorted by x-axis position
-        ocr_lines = []
+        self.ocr_lines = []
         for group in grouped_results:
             sorted_group = sorted(group, key=lambda x: x[1][0][0])  # Sort by x-axis position
             line_text = " ".join([word[0] for word in sorted_group])
-            ocr_lines.append(line_text)
+            self.ocr_lines.append(line_text)
 
         # Save the extracted lines into a JSON file
-        ocr_json = {"text": ocr_lines}
         
-        with open(ocr_json_path, 'w') as json_file:
-            json.dump(ocr_json, json_file, indent=4)
+        
+        
 
         print(f"Extracted text saved to {ocr_json_path}")
     
@@ -193,13 +233,24 @@ class all_func():
         else:
             print("incorrect option check input and try again")
             self.get_data()
+    
+    def dump_in_json(self,file_path):
+        ocr_json = {"class":self.class_lines,"text": self.ocr_lines}
+        self.outputs = ocr_json
+        with open(file_path, 'w') as file:
+            
+            json.dump(self.outputs, file,indent=4)
+            print("saved in json")
+
 
 
 #running the code
 run = all_func()
-run.classifier_donut()
+run.paddle_doc_classifier()
+
 
 run.all_ocr()
+run.dump_in_json(ocr_json_path)
 run.get_data()
 
 
