@@ -8,16 +8,16 @@ from PIL import Image
 from transformers import DonutProcessor,VisionEncoderDecoderModel
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 #path of images and json
-img =  Image.open("data/more_files/medical_bill_r_c.jpg").convert('RGB')# for  donut  class converted mode = rgb
-img_path = "data/more_files/medical_bill_r_c.jpg" #mode = default path for paddle
-ocr_json_path = 'medical_bill_r_c_paddle.json'
-ocr_query_json_path = 'data/more_files/medical_bill_r_c_query.json'
+img =  Image.open("data/more_files/doctor_bill/doctor_bill.jpg").convert('RGB')# for  donut  class converted mode = rgb
+img_path = "data/more_files/doctor_bill/doctor_bill.jpg" #mode = default path for paddle
+ocr_json_path = 'data/more_files/doctor_bill/doctor_bill_paddle+class.json'
+ocr_query_json_path = 'data/more_files/doctor_bill/doctor_bill_query.json'
 #writing a class to fit all functions
 class all_func():
     
 
 
-    '''def classifier_donut(self):
+    def classifier_donut(self):
          # load the processor
         processor = DonutProcessor.from_pretrained("naver-clova-ix/donut-base-finetuned-rvlcdip")
         #load the model
@@ -56,10 +56,8 @@ class all_func():
 
         #convert the reponse to json
         self.result = processor.token2json(seq)
-        #inserting the class output in  json
-        outputs['class'] = self.result
-        #just printing the class result
-        print(self.result['class'])'''
+        self.class_lines = []
+        self.class_lines.append(self.result)
 
     #implementing paddle document classifier
 
@@ -241,13 +239,26 @@ class all_func():
             
             json.dump(self.outputs, file,indent=4)
             print("saved in json")
+    
+    def opt_doc_classifier(self):
+        class_ask = input("what document classifier you want(paddle:1,donut:2):")
+        if class_ask == '1':
+            print("running paddle classifier")
+
+            self.paddle_doc_classifier()
+        elif class_ask == '2':
+            print("running  donut classifier")
+            self.classifier_donut()
+        else:
+            print("incorrect input")
+
+
 
 
 
 #running the code
 run = all_func()
-run.paddle_doc_classifier()
-
+run.opt_doc_classifier()
 
 run.all_ocr()
 run.dump_in_json(ocr_json_path)
