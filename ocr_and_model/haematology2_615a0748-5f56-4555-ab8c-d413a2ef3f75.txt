@@ -1,0 +1,25 @@
+Question: parent name,age,total chol get it in json format and this should be structure {id:<>,value:,..}.
+
+Answer:
+Here is the answer in JSON format:
+
+```
+{
+  "id": "Suresh Raju Yavanmandi",
+  "value": "38 years old"
+}
+{
+  "id": "Total Cholesterol",
+  "value": "190.0 mg/dl"
+}
+```
+
+If you want to combine these into a single JSON object, here is the result:
+
+```
+{
+  "parent_name": "Suresh Raju Yavanmandi",
+  "age": "38 years old",
+  "total_chol": "190.0 mg/dl"
+}
+```

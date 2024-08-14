@@ -1,0 +1,21 @@
+Question: get the fields in this manner patient name:<name>,patient age:<age in number>.
+
+Answer:
+Sure, here are the fields in the manner you requested:
+
+Patient Name: Suresh Raju
+Patient Age: 38 years old (0M0D/Male)
+Order ID: 10003830280
+Sample Received On: 06/Feb/2024 02:06 PM
+Referred By: Self
+Generated On: 06/Feb/2024 03:38 PM
+Casommer Since: 06/Feb/2024
+Sample Temperature: Maintained at single temperature
+Type of Sample: Serum
+Report Status: Final Report
+Department of Biochemistry
+Test Name: Total Protein
+Value Unit: dg/mL
+Bio.Ref Interval: 1-3 months
+normal range: 60-80 dg/mL
+Human serum albumin is the most abundant protein in human blood plasma. It is produced in the liver.Albumin constitutes about half of the blood serum. Low blood albumin can be caused by Livr isease ike cirhosis othe liver nephrotic syndrome.Protin-losing enteropathy Nephrotic.

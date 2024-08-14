@@ -1,0 +1,730 @@
+Class: scientific_report
+
+Healthians Smart Report3.0
+India's trusted
+HealthTest
+@Home Service
+CAP
+ACCREDITEDY NABL
+Booking ID:10003830280
+Smple CollectionDate:06/Feb/2024
+Suresh Raju Yavanmandi
+Male,38 Yrs
+A Comprehensive
+Health Analysis Report
+Al Based Personalized Report for You
+INDIA'S FIRST & ONLY CREDIBILITY CHECK FOR YOUR LAB REPORT
+Check the authenticity of your lab report with machine data
+Scan the QR using any QR code scanner
+C
+Healthians
+Paticnt Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y 0M 0D/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/202402:06PM
+Referred By Self Report Generated On 06/Feb/2024 03:38PM
+Caszommer Since 06/Feb/2024 Sample Temperature Maintained
+Samgle Type SERUM Report Status Final Report
+DEPARTMENT OF BIOCHEMISTRY
+Test Name Value Unit Bio.Ref Interval
+Iron study
+Serum Iron 46.0 ug/dl 70-180
+Method TPTZ
+UIBC 360.00 ug/dl 155-355
+Method:Nitroso-PSAP
+Serum Total Iron Binding Capicity (TIBC) 406 g'dl 250-400
+Method: FE+UIBC (saturation with iron)
+Transferrin Saturation % 11.33 % 10 - 50
+Method: Calculated
+ron participates in a variety of vital processes in the body varying from cellular oxidative mechanisms to the transport and delivery of oxygen to body cells.t is a consstuent otthe oxygen-carrying chromoproteinshaemogobin and myoglobinas well as various enzymes.such as cytochrome oxidase and peroxidases.
+Sem ron may be increased in hemolyticmegaloblastic and aplastic anemias.and in hemochromatosis acute leukemialead poisoning.pyrdoxine
+deticiency.thalassemia.excessive iron therapy.and after repeated transfusions.Drugs causing increased serum iron include chioramphenicol,cisplatin,
+values obtained in the midmoning.low values in midafternoon and very low values near midnight.
+TIBC measures the bloods capacity to bind iron with transferrin (TRF). Estrogens and oral contraceptives increase TIBC levels. Asparaginase, chloramphenicol,
+corticotropin, cortisone. and testosterone decrease the TiBC levels.
+iron.The additional amount of iron that can be bound is the unsaturated iron-binding capacity (UIBC).Transferrin saturation represents the number of iron binding sites that are occupied.It is a better index of iron stores than serum iron alone. Transferrin saturation is decreased in iron deticiency anemia (usually 10% in established deticiency)
+MBBS,MD Biochemistry Dr.R Anitha
+Consultant Biochemist Page 7 of 15
+Hyderabad-500081 and validated by Authorized Medical Practitioner/Lab Doctor
+C
+Healthians
+Patient Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y 0M0D/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/2024 02:06PM
+Referred By Self Report Generated On 06/Feb/2024 03:38PM
+Customer Since 06/Feb/2024 Sample Temperature Maintained
+Samgle Type SERUM Report Status Final Report
+DEPARTMENT OF BIOCHEMISTRY
+Test Name Value Unit Bio.Ref Interval
+Kidney Function Test1 (KFT1)
+Serum Creatinine 1.26 mgd 0.6-1.6
+Method: Jaffes Kinetic
+GFR, ESTIMATED 74.87 mL/min/1.73m2
+Method: Calculated
+Serum Uric Acid 6.6 mgdl 3.5-7.2
+Method: Uricase
+Serum Calcium 8'8 mg/d 8.8-10.6
+Method:Arsenazo
+Serum Phosphorus 4.6 mg/dl 2.5-4.5
+Method: Phosphomolybdate complex
+Serum Sodium 138 mmol/L 136-146
+Method: ISE (Indirect)
+Serum Chloride 102 mmo/L 601-101
+MethodISE (Indirect
+Blood Urea 24 mg/dl 17-43
+Method: Urease
+Blood Urea Nitrogen (BUN 11.3 mg/dl 8-20
+Method: Calculated
+Bun/Creatinine Ratio 8.98 Raio
+Method: Calculated
+Urea/Creatinine Ratio 19.21 Ratio
+Method: Calculated
+The kidneys play a vital role in the excreton of waste prodacts and toxins such as urea.creatinine and uric acidrogulation of extraceular luid volumeserum
+functionis important inthe management o patients wth kidney disease or pathologies atfecting renal unction.Tests of renal tunction have utiity in denfying the osmolality and electrolyte concentrations, as wel as the production of hormones like erythropoietin and 1,25 dihydroxy vitamin D and renin. Assessment of renal
+presence of renal disease, monitoring the response of kidneys to treatment, and determining the progression of renal disease. Urea is synthesized in the liver as the final product of protein and amino acid metabolism. Urea synthesis is therefore dependent on daily protein intake and
+endogenous protein metabolism.
+catabolism in humans.Uric acid levels are used to monitor the treatment of gout. Measurement of calcium is used in the diagnosis and treatment of parahyroid Creatinine is a metabolic product of creatine and phosphocreatine, which are both found almost exclusively in muscle.Uric Acid is the major product of purine
+GFR.Sodium is an electroyte.and  helps regulate the amount of water in and around the cells & the balance of chemicals in the body called acids and bases. disease, a variety of bone diseases, chronic renal disease, urolithiasis and tetany. Phosphorus levels are increased in acute or chronic renal failure with decreased
+Chioride is a negatively charged ion that works with other electrolytes such as potassium, sodium, and bicarbonate, to help regulate the amount of fluid in the body
+and maintain the acid-base balance.
+Dr.R Anitha
+MBBS,MD Biochemistry
+Consultant Biochemist Page 8 of 15
+Hyderabad-500081 and validated by Authorized Medical Practitioner/Lab Doctor
+Healthians
+Paticnt Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y 0M OD/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/202402:11PM
+Referred By Self Report Generated On 06/Feb/2024 03:49PM
+Customer Since
+Samgle Type 06/Feb/2024 Sample Temperature Maintained
+URINE Report Status Final Report
+DEPARTMENT OF CLINICALPATHOLOGY
+Test Name Value Unit Bio.Ref Interval
+Urine Routine & Microscopy Extended
+PHYSICAL EXAMINATION
+Colour Pale Yellow Pale Yellow
+Method:Visual
+Volume 25.00 mL
+Method: Visual
+Appearance Clear Clear
+Method:Visual
+CHEMICAL EXAMINATION
+Specific Gravity 1.025 1.001 - 1.035
+MethodDipstick-lon exchange
+pH 6.0 4.5 - 7.5
+MethodDipstick-Double indicator
+Glucose Negative Negative
+Method:Dipstick-oxidase peroxidas
+Urine Protein Negative Negative
+Method: Dipstick-Bromophenol blue
+Ketones Negative Negative
+Method: Sodium nitroprusside
+Urobilinogen Normal Normal
+MethodDipstick-Ehrlichs Test
+Bilirubin Negative Negative
+Nitrite Negative Negative
+Method: Dipstick-Griess test
+Blood Negative Nil
+Method: Dipstick-Peroxidase
+Leucocyte Esterase Negative Nil
+Method:Dipstick-Esterase
+MICROSCOPIC EXAMINATION
+Pus Cells 2-3 /HPF 0-5
+Method: Microscopic Examination
+Epithelial cells 1-2 /HPF 0-5
+Method: Microscopic Examination
+RBCs Nil /HPF Nil
+Dr.Divya Panda
+MBBS,MD Pathology
+Consultant Pathologist
+Page 9 of 15
+The test was performed by Healthians Labs (A Unit of Expedient Healthcare Marketing Private Limited)-Ground floor, SIN No:E0419809
+Hyderabad-500081 and validated by Authorized Medical Practitioner/Lab Doctor
+Healthians
+Paticnt Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y 0M 0D/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/202402:11PM
+Referred By Self Report Generated On 06/Feb/2024 03:49PM
+Customer Since 06/Feb/2024 Sample Temperature Maintained
+Sample Type URINE Report Status Final Report
+DEPARTMENT OF CLINICAL PATHOLOGY
+Test Name Value Unit Bio.Ref Interval
+Method:Microscopic Examination
+Casts Nil IN
+Method: Microscopic Examination
+Crystals Nil IN
+Method: Microscopic Examination
+Bacteria Absent Absent
+Method: Microscopic Examination
+Yeast Cell Absent
+Dr.Divya Panda
+MBBS,MD Pathology
+Consultant Pathologist
+Page 10 of 15
+SINNoE0419809
+The test was performed by Healthians Labs (A Unit of Expedient Healthcare Marketing Private Limited)-Ground floor,
+Sri Krishna Heights100 feet RoadPlot No.538,Sri Swamy Ayyappa Coop Housing Society Ltd, Madhapur
+Hyderabad-500081 and validated by Authorized Medical Practitioner/Lab Doctor
+C
+Healthians
+Paticnt Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y 0M OD/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/20240126PM
+Referred By Self Report Generated On 06/Feb/2024 07:21PM
+Customer Since 06/Feb/2024 Sample Temperature Maintained
+Samgle Type Wnole Blood EDTA Report Status Final Report
+DEPARTMENT OF HAEMATOLOGY
+Test Name Value Unit Bio.Ref Interval
+Complete Haemogram
+Haemoglobin (HB) 13.5 g/dL 13.0-17.0
+Method: Photometric Measurement
+Total Leucocyte Count (TLC) 9.6 10^3/uL
+MethodCoalter Principle 4.0-10.0
+Hematocrit (PCV) 42.2 % 40.0-50.0
+Method: Calculated
+Red Blood Cell Count (RBC) 4.80 10^6/l 4.50-5.50
+Method:Coulter Principle
+Mean Corp Volume (MCV 88.7 fL 0001-00
+Method:Derived from RBC Histogram
+Mean Corp Hb (MCH) 28.4 Pg 27.0-32.0
+Method: Calculated
+Mean Corp Hb Conc (MCHC) 32.0 g/dL 31.5-34.5
+Method: Calculated
+RDW-CV 15.7 % 11.6-14.0
+Method:Derived from RBC Histogram
+RDW-SD 49.40 fL 39.0-46.0
+Method: Derived from RBC Histogram
+Mentzer Index 18.48 Ratio
+Method: Calculated
+RDWI 290.12 Ratio
+Method: Calculated
+Green and king index 92 Rao
+Method:Calculated
+Differential Leucocyte Count
+Neutrophils 49.8 % 40-80
+Method: VCS Technology
+Lymphocytes 35.8 % 20-40
+Method:VCS Technology
+Monocytes 10.3 % 02-10
+Eosinophils 3.6 % 01-06
+Method:VCS Technology
+Basophils 0.5 % 00-02
+Riny
+Dr.Divya Panda
+MBBS,MD Pathology
+Consultant Pathologist
+Page 11 of 15
+The test was performed by Healthians Labs (A Unit of Expedient Healthcare Marketing Private Limited)-Ground floor, SIN No:E0419809
+Hyderabad-500081 and validated by Authorized Medical Practitioner/Lab Doctor
+C
+Healthians
+Patient Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y OM0D/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/20240126PM
+Referred By Self Report Generated On 06/Feb/2024 07:21PM
+Customer Since 06/Feb/2024 Sample Temperature Maintained
+Sample Type Wnole Blood EDTA Report Status Final Report
+DEPARTMENT OF HAEMATOLOGY
+Test Name Value Unit Bio.Ref Interval
+Method:VCS Technology
+Absolute Leucocyte Count
+Absolute Neutrophil Count (ANC) 4.78 10^3/uL. 2.0-7.0
+Method: Calculated
+Absolute Lymphocyte Count (ALC 3.44 10^3/uL 1.0-3.0
+Method: Calculated
+Absolute Monocyte Count 660 10^3/uL 0.2-1.0
+Method:Calculated
+Absolute Eosinophil Count (AEC) 0.35 10^3/uL 0.02-0.5
+Method: Calculated
+Absolute Basophil Count 0.05 10^3/uL 0.02-0.10
+Method:Calculated
+Platelet Count(PLT) 274 10^3/l 150-410
+Method: Coulter Principle
+PDW 16.6 % 9.6-15.2
+MPV 8.0 fL 7-9
+Method: Derived from PLT Histogram
+PCT 0.22 % 0.190.39
+ESR 3 mm/1st hour 0-10
+Method: Modified Westergren Method
+The Intemational Council for Standardization in Haematology (ICSH) recommends reporting of absolute counts of various WBC subsets for dinical decision making.
+This test has been performed on a fu3y automated 5 part differential cell counter which counts over 10,000 wBCs to derive differential counts. A complete blood
+plateltsThe cll that ciruate inthe bloodstream are generaly diided ino hree typeswhite blood cell ukocytesred bood cells erhroctsand pltlets count is a blood panel that gives information about the cells in a patients blood. such as the cell count for each cell type and the concentrations of Hemoglobin and
+The Mentzer index is used to differentiate iron deficiency anaemia beta thalassemia trait. If a CBC indicates microcytic anaemia, these are two of the most likely causes.making  necessary to dissnguish betwen them.
+cincy anamias ore y.Green and King ndx used to dfferette DA fom haassemia trat vae>65is y to be ron Deiiency Anemiaand vale65
+Beta Thalassemia Trait. For RDwi Value >220 more likely to be iron Deficiency Anemia and value 220 more likely to be Beta Thalassemia Trait.
+ESR is a non-speciic phenomenon,its measurement is clinically usetulin disorders associated with an increased production of acute-phase proteins.it provides an
+index of progress of the disease in rheumatoid arthritis or tuberculosis, and it is of considerable value in diagnosis of temporal arteritis and polymyalgia rheumatica.It
+An elevated ESR occurs as an early feature in myocardial infarction. Although a normal ESR cannot be taken to exclude the presence of organic disease, the vast
+An increased ESR in subjects who are HIV seropositive seems to be an early predictive marker of progression toward acquired immune deficiency syndrome majority of acute or chronic infections and most neoplastic and degenerative diseases are associated with changes in the plasma proteins that increased ES values.
+(AIDS).
+The ESR is influenced by age, stage af the menstrual cycle and medications taken (corticosteroids, contraceptive pills).  is especially low (01 mm) in
+Dr.Divya Panda
+MBBS,MD Pathology
+Consultant Pathologist
+Page 12 of 15
+SIN No:E0419809
+The test was performed by Healthians Labs (A Unit of Expedient Healthcare Marketing Private Limited)-Ground floor
+Hyderabad-500081 and validated by Authorized Medical Practitioner/Lab Doctor
+Healthians
+Paticnt Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y 0M0D/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/20240126PM
+Referred By Self Report Generated On 06/Feb/2024 07:21PM
+Customer Since 06/Feb/2024 Sample Temperature Maintained
+Sample Type Whole Blood EDTA Report Status Final Report
+DEPARTMENT OF HAEMATOLOGY
+Test Name Value Unit Bio.Ref Interval
+cells.
+ncrease in hamogiobin i..he effect of secondary polycythamia) In cases of performance enhancing drug intake by athletes the ESR values are generally lower than the usual value for the individual and as a result of the
+Dr.Divya Panda
+MBBS,MD Pathology
+Consultant Pathologist
+Page 13 of 15
+The test was performed by Healthians Labs (A Unit of Expedient Healthcare Marketing Private Limited)-Ground floor, SINNo:E0419809
+Sri Krishna Heights100 feet RoadPlot No.538,Sri Swamy Ayyappa Coop Housing Society Ltd, Madhapur
+Hyderabad-500081 and validated by Authorized Medical Practitioner/Lab Doctor
+Healthians
+Patient Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y 0M0D/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/2024 02:06PM
+Referred By Self Report Generated On 06/Feb/2024 03:24PM
+Customer Since 06/Feb/2024 Sample Temperature Maintained
+Samgle Type Serum Report Status Final Report
+DEPARTMENT OF IMMUNOLOGY
+Test Name Value Unit Bio.Ref Interval
+Vitamin B12
+VITAMIN B12 244 pg/ml 211-912
+Method: CLIA
+2 the conversion of methylmalonylCoA to succinyl CoA.Deticiency of this vitamin can lead to megaloblastic ancmia and ultimately to severe neurological problems. Vitamin B12 is a coenzyme that is involved in two very importam metabolic functions vital to normal cell growth and DNA synthesis: 1) the syathesis of methionine, and
+Alsomic nm.gsis.ph pthy.wknhyfxiaf rin.or cood.andffive bvr
+changes. A significant increase in RBC MCV may be an important indicator of vitamin B12 deficiency.
+Patients taking vitamin B12 supplementation may have misleading resalts.A normal serum concentration of B12 does not rule out tissue deficiency of vitamin B12.Tbe
+be considered. even if seram B12 concerations are normal
+Vitamin D,25-Hydroxy
+VITAMIN D (25-OH VITAMIN D) 11.30 ngml 30-100
+Method:CLIA
+VITAMIN D STATUS VITAMIN D25 HYDROXY (ng/mL).Adult VITAMIN D25 HYDROXY (ng/mL).Pediatric
+DEFICIENCY NSUFRCENCY 20-30 20 <15
+30100 15-20
+SUFFICIENCY 20-100
+Vitamin D is a lipid-soluble steroid hormone that is produced in the skin through the action of sunlight or is obtained trom dictary sources The role of vitamin D in. aintaining homeostasis of cacim and phosphorus i we established.
+The assay measures both D2 (Ergocalciferol) and D3(Cholecalcifrol) metabolites of vitamin D.Vitamin D status is best determined by measurement of 25 hydroxy
+vitamin D, as it is the major circulating form and has longer half life 2-3 weeks) than 1,25 Dinydroxy vitamin D (5-8 hrs)
+Levels needed to prevent rickets and osteomalacia (15 ng/mL) are lower than those that dramatically suppress parathyroid hormone levels (2030 ng/mL).In turn, those levels are lower than levels needed to optimize intestinal calcium absorption (34 ng/mL). Neuromuscular peak performance is associated with levels
+approximately 38 ng/mL
+MBBS,MD Biochemistry Dr.R Anitha
+Consultant Biochemist Page 14 of 15
+Hyderabad-5oo081 and validated by Authorized Medical Practitioner/Lab Doctor
+Healthians
+Patient Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y 0M 0D/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/202402:06PM
+Referred By Self Report Generated On 06/Feb/2024 03:24PM
+Customer Since 06/Feb/2024 Sample Temperature Maintained
+Samgle Type Serum Report Status Final Report
+DEPARTMENT OF IMMUNOLOGY
+Test Name Value Unit Bio.Ref Interval
+Thyroid Profile (Total T3,T4, TSH)
+Tri-Iodothyronine (T3,Total) 1.10 ng/ml 0.60-1.81
+Method: CLIA
+Thyroxine (T4, Total) 11.20 ug/dl 3.2-12.6
+Method:CLIA
+Thyroid Stimulating Hormone (TSH)-Ultrasensitive 3.7580 IU/ml 0.55-4.78
+Method: CLIA
+Pregnancy interval Bio Ref Range for TSH in aIU/al (As per American Thyroid Association)
+First trimester Second trimester 0.2-3.0 0.1 - 2.5
+Thard trimester 0.33.0
+1.Thyroid hormones undergo hythmic varition within the body this is caled circadian variation inTSH secretionPeak lves are seen beween 24 am.Minmum Healthians recommends that the following potential sources of variation should be considered while interpresng thyroid hormone resuits:
+2.Circulating forms of T3 and T4 are mostly reversibly bound with Thyroxine binding globulins TBGand to a lesser extent with albumin and Thyroid binding Pre levels seen between 6-10 am. This variation may be as much as 50% thus.influence of sampling sme needs to be considered for clinical interpretation.
+nd glucocorticoids may cause misleading totalT3.totlT4 and TSH intorpretatons. Albumin. Thus the condtions in which TBG and protein levels alter such as chronic liver disorders.pregnancy.excess of estrogens, androgens,anabolic steroids
+3.Tol3 and T4 le are sen to have physilogicl ie during prenancy and inpatiets on steroid trtment
+5.Neonates and infants have higher levels of T4 due to increased concentration of TBG certain drugs (eg Phenytoin. Salicylates etc)
+7. TSH values of 0.03 ulU/mL must be clinically correlated to evaluate the presence of a rare TSH variant in certain individuals which is undetectable by
+8.Presence of Autoimmune disorders may lead to spurious results of thyroid hormones conventional methods.
+9.Various drugs can lead to intererence intest result.
+10. Healthians recommends evaluation of unbound tractions, that is tree T3 (fT3) and free T4 (fT4) for clinic-pathologic correlation, as these are the metabolically
+active forms.
+***End Of Report ***
+MBBS,MD Biochemistry Dr.R Anitha
+Consultant Biochemist Page 15 of 15
+Hyderabad-500081 and validated by Authorized Medical Practitioner/Lab Doctor
+Terms&Conditions:
+Machine Data is availabie for iast 7 days oniy. Iin case of manual testing & outsourced testing, machine data will not be availabie.
+2)
+3)
+time of day and fasting status have influence on the reported TSH level values are also Iowered after food when compared to fasting In g statisticaly signiticant manner. This variotion Is of the-order of So%, hence
+4 For Lipid profile-Lipid and Lpoprotein concentrotions vary during the norm course of daly activityAlso.certain drugs.dit and alcohol con
+night is recommended
+5 Test results relecsed pertain to the specimen submitted
+6] Test results are dependent on the quglity of the sample received by the Lab
+7) The tests are carried out in the lab wth the presumption that the specimen belongs to the patient named or identified in the billtest request
+form/bookingD.
+The reported results are for information and are subject to confirmation and interpretotion by the referring doctor to co-relate clinicaly.
+9 Test results may show interlaboratory variations.
+10) laboratory services. Liablity of Healthians for deficiency of services or
+11 This report is not subject to use for any medico-legal purposes
+Few of the sests rright be Sutsourcec.tc portner icbs as and when required
+This repoft is not jnter Jedto repidce but to.leodby providing comp
+14)
+15]
+Healthians Smart Report 3.0
+HEALTHANALYSIS Suresh Raju Yavanmandi
+Personalized Summary& VitalParameters 10002830280 Smpla Callaction Dote:05jFeb/2024
+Suresh Raju Yavanmandi,
+Congratulations,We have successfully completed your health diagnosis.This is a big Your Health Score
+step towards staying on top of your health and identify potential to improve
+10 Vital Health Parameters of a Human Body Ecosystem 82
+Below are the health parameters which require routine checkups for primary healthcare.
+The view also includes personalised /nformation depending on the tests you have taken.
+Thyroid Function Vitamin B12
+TSH-Ultrasensitive:3.76 Thyroid Stimulating Hormone 244pg/ml
+lU/ml Everything looks good
+Everything looks good
+Cholesterol Total Liver Function
+p/6061 Alanine Aminotransterase
+Everything looksgood ALT/SGPT18U/L
+Everything looks good
+Kidney Function Calcium Total
+Serum Creatinine:1.26 mg/d 8.8 mg/d
+Everything looks good
+Vitamin D Iron studies
+11.3 ng/ml SerumIron:46 ug/d
+Concern Concern
+HbAlc Complete
+6.3% Hemogram
+"Concern Haemoglobin HB13.5 g/dL
+Everything looks good
+Healthians Smart Report 3.0
+ADVISORY Suresh Raju Yavanmandi
+Health Advisory Bing003830280mp C5onte06Fe2024
+Body Mass index
+eyog o
+PhysicolActivty Smoke FoodPre Slood Pressure
+No Data  Dot  Doto No oto
+5'6
+Weight
+No Doto Medicotion Alcohol Sugar levels
+No Dota No Dato No Dota
+SUGGESTED NUTRITION
+Do's Dont's
+Include seeds lke fixseeds chig seeds, sunflower Limit sugor inoke
+SUGGESTED Indude fruits Limit tea and coffee
+NUTRITION diet Avod retined carbs.processed foods Decrease intake of colas and sugary drinks
+Have c balng Avod the e o o and avod souces and drssing
+Toke tornC nch foods like ctrus fruts strowberries Have dates and figs Limit intake of salt
+Take  fiber rich diet tht includes fruits vegetabes and green, ledfy vegetables Avold packoged foods or reodymade meats Reduce catfeine intoke
+llk, yoghurt, cf Avoid llavoured and secsoned foods
+ondgreeny vegetables
+SUGGESTED LIFESTYLE
+Do's Dont's
+Lose weigh graduoy and stay active
+SUGGESTED Have reguor xposure to sunight Maintain ideol weigh Avoid overworking or being stressed for long tim
+LIFESTYLE Avod oversrtion whout hoving food or rink Avod smoking and lcohol
+Limit dining out Avoid strenuous exercises
+Dont ignore your body signols ond dont skip your regular health check-upe
+SUGGESTED FUTURE TESTS
+Glycated Hemoglobin (HbAlc-Every 3 Month
+SUGGESTED Slcod Glucose Fosting -Every 1 Week
+FUTURE Glucose Postprandigl-Every 1 Week
+ron Studies With Farritin- Every 1 Month
+TESTS Occult blood, Stool-Every 1 Month
+Reticulocyte Count - Every 1Month
+Healthians SmartReport 3.0
+HEALTR'ADVISORY Suresh Raju Yavanmandi
+Suggestions for Health &Well-being 000302SmpeCctnte06Fb2024
+PHYSICAL ACTIVITY
+recommended to partake in physical activity at least 30 minutes JoggingSportsStretching. Yoga to light weight lifting etc. It is
+PHYSICAL
+ACTIVITY f regular workout is difficut, thenwo can adopt changes such as
+using stairs instead of lift/escolators and doing household work
+BALANCED DIET
+    p
+grainvegetobs who frutsnutssedbens.plnt in
+your dlet. BALANCED
+lght dinner.Avoid items such as processed foodspotatoes and It is recommended to atwoys have a high protein breakfast and a DIET
+high calorie/sugar products Dont forget to drink water regularty
+STRESS MANAGEMENT
+Managing stress is on essentigl part of well-being.Some day to
+STRESS induging yoursel nmedation positive ttitde towords iestye day changes can help such as having sufficient sieop (6-8 hours),
+MANAGEMENT using humor, traveling. talking to people whom you feel comfortable with and moking time for hobbies by doing whot you
+love to do.
+BMIINFORMATION NOT AVAILABLE BMI
+Please fill your Health Karma to know your BMI results
+Healthians Smart Report 3.0
+Supplement Suggestions Suresh Raju Yavanmandi
+BookingD100038302801SampleColectionDate06/Fb/2024
+longer run.
+In order to fulfill the gaps in nutrition and promote a healthier body we suggest you the following supplements mentioned below.
+Deficiency/Out of Range Parameter(s) Suggested Supplement
+Glycated Hemoglobin (HbAlc) DIABEAT-EASE
+LDLCholesterol-Direct HEARTUP
+Suggestions for Improving Deficiencies
+DIABEAT-EASE Manage diabetes the all-natural way!
+Herbda
+sourced diabetes supplement enables you to lead a productive life,while managing your diabetes in a
+Remember,ignoring diabetes can cause a lot of serious complications, including
+DIABEAT-EASE Vision & Hearing Loss Heort Attack Stroke -Dementio
+supplement to help you control diabetes without having to worry about side-effects.Sourced from Infused with the ages-proven goodness of all-natural ingredients,DiABEAT-EAsE is the perfect
+nature's own pharmacy of herbs,the ingredients in DlABEAT-EASE present the following benefits:
+Saunt Karela Chirata Ashwagandha Vijayasar
+Helps control blood 9 aoEns poopg seonpag
+diabetes pressure& monoge reduceschoiesterol levels detoxites blood Helps manage high blood pressure,diabetes Reduces blood sugar.cholesterol.6 triglycerideslevels by lowering down suga cravings
+HEARTUP Improve your heart health the natural way
+Herbag Lower your blood pressure and give your heart a heoithy beat with HEART-UP an al-notural supplement
+CHeatnins and cinnamon, this clinically proven natural supplement lowers your blood pressure, thus ensuring .
+healthy heart, which in turn means ahealthy you
+If left unchecked,hypertension can lead to
+HEART-UP Heart Failure Kidney Diseases Heart AttackIStrokeIVascular Dementia
+Infused with the ages-proven goodness of all-natural ingredients,HEARt-uP is the perfect supplement to
+60 from nature's own pharmacy of herbs,the ingredients in HEART-uP present the folowing benefits:
+ArjunTree Extrac Garlic Peepal Jatamansi Cinnamon
+Reduces the risk of heart Purifies the blood and
+pressure and lowers beosts cardioc health Helps in alleviating anxiety,thus reducing Has anti-vizal propertie
+frypertersive properties cholesterol the risk of high blood pressure Type 2 diabetes
+Herbdc
+byHesbron
+Healthians Smart Report 3.0
+Supplement Suggestions Suresh Raju Yavanmandi
+Sooking ID :10003830280 1Sample Collection Date : 06/Feb/2024
+Deticiency/Out of Range Parameter(s)
+IRONPOWER To.order.ca1800-572-000-
+Vitamin D Total-25 Hydroxy VITAMIN D3
+Suggestions for Improving Deficiencies
+IRON POWER Your all natural weapon against Anaemia
+Herbda IRON-POwER is a scientifically formulated and clinically proven all-natural supplement that helps you
+Heoltion
+robust and treat iron deficiency with IRON-POwER increases blood production and iron levels to keep your body functioning optimally.Keep overall health
+Its widely known that iron is crucial for your health.A lack of iron intake or iron deficiency can cause
+serious healthissues, such as:
+IRON POWER Heart problems Growth issues in children Pregnancy complications Depression
++Increased infection risk
+Infused with the ages-proven goodness of all-natural ingredients,IRON-PoweR is the perfect supplement
+nature's own pharmacy of herbs, the ingredients in IRoN-POwER present the following benefits
+Orange Peel
+Extract
+Rich in vitomin C.Helps maintain iron levels
+VITAMIN D3 Improve bone health with enhanced calcium
+absorption,the natural way
+Herbda Make your muscies and bones stronger with ViTAMiN D3.Sourced from natural substances,it helps in
+regulating the absorption of calcium and phosphorus, which help keep your bones strong and enhancing
+Remember,a lack of vitamin D3 can cause dangerous health situations
+VITAMIN D3 Rickets (in chidren Britte Bones Osteoporosis Weakened Bones (in adults
+Strengthens Bones& Muscles Protects Against Pneumonig& Acute Helps in Reducing Depression Treatment Aids in Kidney Disease
+Respiratory Infections
+Herbag
+hHesbror Toorder.call1800-572-000-4
+Healthians Smart Report 3.0
+New Features Suresh Raju Yavanmandi
+Report Summary
+naries that are easy to understand
+Summary of Deranged Parameters:
+Based on the health test results from Healthians, there are a few parameters that have shown abnormal values. Its important to note that these results are
+just one piece of the puzzle and further evaluation may be needed to fully understand your overall health. Please remember that these values should not
+en ee p sg   pee    se e an ae
+ncorparating vitamin D-rich foods into your diet. Additianally,discussing supplementation options with a healthcare professional may be beneficial
+to focus on a balanced diet regular exercise.and maintaining a healthy weight Consulting with a healthcare professional can provide further guidance on 2.Glycated Hemogiobin (HbAlc):Your HbAlc levels are higher than the normal range.This indicates a potential issue with blood sugar control.It is advisable
+managing bload sugar levels.
+3.Phosphorus-Inorganic, Serum: Your phosphorus levels are higher than the normal range. This may be indicative af kidney function issues. It is
+recommended to consult with a healthcare professional to evaluate kidney health and discuss appropriate management strategies.
+incorporate iron-rich foods into your diet and consider discussing supplementation options with a heaithcare professional.
+Piease remember that these suggestions are general in nature and it is important to consult with a healthcare professional for personalized advice and
+guidance. They will be able to provide a comprehensive evaluation and create a tailored plan to address your specific needs.
+Healthians
+Patient Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y 0M0D/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/20240126PM
+Referred By Self Report Generated On 06/Feb/2024 03:39PM
+Customer Since 06/Feb/2024 Sample Temperature Maintained
+Samgle Type Wnole Blood EDTA Report Status Final Report
+DEPARTMENT OF BIOCHEMISTRY HBAIC
+Test Name Value Unit Bio.Ref Interval
+HbA1c -Glycosylated Hemoglobin
+Hbalc (Glycosylated Hemoglobin) 6.30 % 4.2-5.7
+Method: HPLC
+Average Estimated Glucose - plasma 134.11
+Method: Calculated
+INTERPRETATION AS PER AMERICAN DIABETES ASSOCIATION (ADA):
+Non diabetic REFERENCE GROUP GLYCOSYLATED HEMOGLOBIN (HBA1c) in %
+Risk Prediabetes 5.76.4 <5.7
+Diagnosing Disbetes >=6.5 Age>19 Years
+Goals of Therapy <7.0
+Actions Suggested: >8.0
+Therapeutic goals for glycemic control Age <19 Years
+Goal of therapy: <7.5
+REMARKS 1. HbA1c is used for monitoring diabetic control. It refiocts the mean plasma glucose over three months
+2.HbA1c may be falsely low in diabetics with hemolytic disease.In these individuals a plasma fructosamine level may be used which evaluates diabetes over 15
+3.nappropritely w HbAc vals may be repod due to hemoysisrecen blood transusionate blod losshyptrigyidmiachronc iver disease.Drugs days.
+ke daoneribavrin anrtiradrugstriprmmay alo cause intrne wth stmaton fHbA1ccasing ay w vals.
+4.HbA1c may be increased in patients with polycythemia or post-splenectomy
+5. Inappropriately higher values of HbA1c may be caused due to iron deticiency, vitamin B12 deficiency, alcohol intake, uremia, hyperbilirubinemia and large doses of
+6.Trends in HbA1c are a better indicator of diabetic control than a solitary test.7.Any sample with >15%HbA1c should be suspected of having a hemoglobin aspirin.
+8.HbA1c target in pregnancy is to atlain lvel6% 9.HbA1c target in paediatric age group is to attain level7.5% Methodon-exchange highperomance liquid chromatography (HPLC
+ReferenceAmerican Diabetes Associations.Standards of MedicalCare in Diabetes 2023
+MBBS,MD Biochemistry Dr.R Anitha
+Consultant Biochemist Page 1 of 15
+Hyderabad-500081 and validated by Authorized Medical Practitioner/Lab Doctor
+C
+Healthians
+Paticnt Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y OM0D/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/202402:09PM
+Referred By Self Report Generated On 06/Feb/2024 02:40PM
+Caszommer Since 06/Feb/2024 Sample Temperature Maintained
+Samgle Type Flouride Plasma Report Status Final Report
+DEPARTMENT OF BIOCHEMISTRY
+Test Name Value Unit Bio.Ref Interval
+Fasting Blood Sugar
+Glucose.Fasting 78.4 mgd 70-100
+Method: Hexokinase
+American Diabetes Association Reference Range :
+Normal Impaired fasting glucose(Prediabetes) :100-126 mgd) 100mg
+Diabetes =126mgd
+kiney disaseCushing syndromeExcssive consumponf foodHtydismPanreatiti Conditons thst can resu in an elevated blood glucose level incude:Acromegaly.Acute stress (response to trauma.heart attack.and stroke for instance)Chronic
+Alow veof glucose may indicate hypogycemia.acondtion characterzed by a drop in blood glucose toa level where firstit causes nervous system symptoms
+swatingpalptatnshngerming.and axtythen bgins to afft the brain casing consionhallnationsblurrd visinand smeims vn coma
+and death.A low blood glucose level (hypoglycemia may be seen with:Adrenal insutficiency.Drinking excessive alcohol.Severe siver diseaseHypopituatarism
+Hypothyroidism,Severe infectionsSevere heart failure.Chronic kidney (renal) failure, Insulin overdose Tumors that produce insulin (insulinomas)Starvation.
+Dr.Divya Panda
+MBBS,MD Pathology
+Consultant Pathologist
+Page 2 of 15
+SINNoE0419809
+The test was performed by Healthians Labs (A Unit of Expedient Healthcare Marketing Private Limited -Ground floor
+Hyderabad-500081 and validated by Authorized Medical Practitioner/Lab Doctor
+Healthians
+Paticnt Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y 0M 0D/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/202402:06PM
+Referred By Self Report Generated On 06/Feb/2024 03:38PM
+Customer Since 06/Feb/2024 Sample Temperature Maintained
+Samgle Type SERUM Report Status Final Report
+DEPARTMENT OF BIOCHEMISTRY
+Test Name Value Unit Bio.Ref Interval
+Lipid Profile
+Total Cholesterol 190.0 mgdl Desirable:<200
+Method: Enzymatic Borderline:200-239
+High>/=240
+Serum Triglycerides 130.0 mg/dl Desirable150
+Method: Enzymatic Borderline high :150-199
+High:200-499
+Very high:>500
+Serum HDL Cholesterol 39.9 mg/dl 40-60
+Method:Enzymatic immuno inhibition
+Serum LDL Cholesterol 131.0 mg/dl Optimal:100
+Method: Enzymatic near /above Optimal:100-
+129
+Borderline High:130-159
+High:160-189
+Very High>/=190
+Serum VLDLCholesterol 19.0 mg/dl <30
+Method: Calculated
+Total CHOL/HDL Cholesterol Ratio 4.76 Ratio 3.30-4.40
+Method:Calculated
+LDL/HDLCholesterol Ratio 3.28 Ratio Desirable/Low Risk:0.5-3.0
+Method: Calculated Line/Moderate Risk:3.0-6.0
+Elevated/High Risk>6.0
+HDL/LDL Cholesterol Ratio 0.30 Rano Desirable/Low Risk 0.5-
+3.0
+Border Line/Moderate Risk:
+3.0-6.0
+Elevated/High Risk: > 6.0
+Non-HDL Cholesterol 150.1 mg/dl 0.0-160.0
+Method: Calculated
+Dyspidemiai a dsoder ttat r poprotein metabolm in the body andincludes poproten overproducon or deficiency.Dyslipidemias means increase in the level
+of one or more of the following
+The bad cholesterol or low density lipoprotein (LDL) and/or triglyceride concentrations.Dysipidemia also includes a decrease in the good cholesterol or high- Total Cholesterol
+deny ipoprtein HDLconcenatoninhe blood Lipid level assessments must be made following 9 to 12 hours of fasting, otherwise assay results might lead to erroneous interpretation.
+Anitha
+Dr.R Anitha
+MBBS,MD Biochemistry
+Consultant Biochemist Page 3 of 15
+The test was performed by Healthians Labs (A Unit of Expedient Healthcare Marketing Private Limited)-Ground floor,
+Hyderabad-500081 and validated by Authorized Medical Practitioner/Lab Doctor
+C2
+Healthians
+Paticnt Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y 0M0D/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/2024 02:06PM
+Referred By Self Report Generated On 06/Feb/2024 03:38PM
+Caszommer Since 06/Feb/2024 Sample Temperature Maintained
+Samgle Type SERUM Report Status Final Report
+DEPARTMENT OF BIOCHEMISTRY
+Test Name Value Unit Bio.Ref Interval
+Heathians labsrepon bilocalreference intervals nomrangesinaccordance to the recommendations of The NaonaCholestero Education Program NCEP&
+Adult Treatment Panel IV (ATP IV) Guidelines providing the most desirable targets of various circulating lipid fractions in the blcod. NCEP recommends that all
+NCEP recommends e assessment of 3 dierent samples drawn at intervals of 1 week for harmonizing biologicalvariables that might be encountered in single adults above 20 years of age must be screened for abnormal lipid levels.
+assays. Hence a single result of Lipid Profile may not be adequate for clinical decision making. Healthians counselling team will reach you shortly to explain implications of your report You may reach out to customer support helpline as well
+EP recommends owing  LD Chostr asthe primarytherapec targ wh pid lwring agents howver.gycerdsremain>200mgd ater LDL
+goal s reachedset secondary goal for non-HDL cholesterol (total mius HDL 30 mgdL higher than LDL goal Hgh Tgycerde and w HDL s are independent risk actors or Coronary Hean disease and requires urer cinical consutaon. Healthians lab perloms direct LDL measurement which is more appropriate and may vary from cther lab reports which provide calculated LDL values
+MBBS,MD Biochemistry Dr.R Anitha
+Consultant Biochemist Page 4 of 15
+The test was performed by Healthians Labs (A Unit of Expedient Healthcare Marketing Private Limited -Ground floor
+Hyderabad-500081 and validated by Authorized Medical Practitioner/Lab Doctor
+C
+Healthians
+Patient Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y 0M 0D/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/202402:06PM
+Referred By Self Report Generated On 06/Feb/2024 03:38PM
+Customer Since 06/Feb/2024 Sample Temperature Maintained
+Samgle Type Serum Report Status Final Report
+DEPARTMENT OF BIOCHEMISTRY
+Test Name Value Unit Bio.Ref Interval
+Liver Function Test (LFT)
+Serum Bilirubin (Total) 0.72 @u 0.3-1.2
+Method: Diazo
+Serum Bilirubin, (Direct) 0.16 mg/dl 0-0.2
+Method:Diazo
+Serum Biliubin. (Indirect) 0.56 mgdl 0.0 - 0.8
+Method: Calculated
+Aspartate Aminotransferase (AST/SGOT) 25.00 U/L 3-50
+Method: IFCC
+Alanine Aminotransferase (ALT/SGPT) 18 UL 3-50
+Method:IFCC
+Alkaline Phosphatase (ALP) 128.00 UL 30-120
+Method:IFCC AMP Buffer
+Gamma Glutamyl Transferase (GGT) 25.0 U/L 5 -55
+Method: IFCC
+Serum Total Protein 7.20 g/dl 6.6-8.3
+Serum Albumin 3.99 g/d 3.5-5.2
+Method: Bromo Cresol Green(BCG)
+Serum Globulin 3.21 gmd 3.0-4.2
+Method: Calculated
+Albumin/Globulin Ratio 1.24 Ratio 1.2-2.5
+Method: Calculated
+SGOT/SGPT Ratio 1.39 Ratio 0.7-1.4
+Method: Calculated
+Bliinis a ylwh pigme oundin b and s a brkw prodct  noma hme caabom.Elevad vs rs m ncased biirbin prodcion eg
+hemolysis and ineffective erythropoiesisdecreased biirbin xcreion egobstruction and hepatisand abnormal birubin metabolism (eghereditary and
+neonatal jaundce.Conjugated direct biiubin s elevatd more than uncongated indirct blirubin invirl heptitisdrug reactionsalcoholic iver disease onjugated direct bibn is also elevatd more than uncongated indirct blirubin when there is some kind of blockage of the bie duct ke inGallstones getting nto the bile ducts mors &Scaring of the bile ducts.Inarased unconjugatod (indirect bilirubin may be a resut of hemolyti or pernicious anemia transusion
+reaction & a coimmon metabolic condition termed Gilbert syndrome..
+AST levels increase in viral hepatitis.blockage of the bile duct .cirrhosis of the liver, liver cancer, kidney falure, hemolylic anemia,pancreatitis, hemochromatosis.
+Ast levels may also increase after a heart attck or strenuous activity.ALT is commonly measured as a part of a diagnostic evaluation of hepatocelular injury, to
+determine liver health. Elevated ALP levels are seen in Biliary Cbstruction, Osteoblastic Bone Tumors, Osteomalacia, Hepatitis, Hyperparathyriodism, Leukemia, Lymphomapagets diseaseRickets.Sarcoidosis etc.
+Elevated serum GGT acsvity can be found in diseases of the liver, Biliary system and pancreas.Conditio
+high alcohol consumption and use of enzyme-including drugs etc. serum GGT are obstructive liver disease
+Dr.R Anitha
+MBBS,MD Biochemistry
+Consultant Biochemist Page 5 of 15
+SINNoE0419809
+The test was performed by Healthians Labs (A Unit of Expedient Healthcare Marketing Private Limited)-Ground floor
+Hyderabad-500081 and validated by Authorized Medical Practitioner/Lab Doctor
+C
+Healthians
+Paticnt Name Suresh Raju Yavanmandi Barcode E0419809
+Age/Gender 38Y 0M0D/Male Sample Collected On 06/Feb/202405:58AM
+Order Id 10003830280 Sample Received On 06/Feb/202402:06PM
+Referred By Self Report Generated On 06/Feb/2024 03:38PM
+Caszommer Since 06/Feb/2024 Sample Temperature Maintained
+Samgle Type Serum Report Status Final Report
+DEPARTMENT OF BIOCHEMISTRY
+Test Name Value Unit Bio.Ref Interval
+dgHghanl s mybe imnrionig and his BM ymaWns e. Serum total protein, also known as total protein, is a biochemical test for measuring the total amount of protein in serum.Protein in the plasma is made up of albumin
+Lowrnnom s ay be ue toAgammagbinmaBling hmorhageBusGmlonhriis.ver saseMaabsornMaon
+protein.Low blood abumin ves hypoalbuminemia can be caused byLivr isease ike cirhosis othe livernephrotic syndrome.protin-losing enteropathy Nephrotic - Human serum albumin is the most abundant protein in human blood plasma. It is produced in the liver.Albumin constitutes about half of the blood serum
+Burns, hemodilution, increased vascular permeability or decreased lymphatic clearance, malnutrition and wasting etc.
+MBBS,MD Biochemistry Dr.R Anitha
+Consultant Biochemist Page 6 of 15
+The test was performed by Healthians Labs (A Unit of Expedient Healthcare Marketing Private Limited -Ground floor SINNoE0419809
+Sri Krishna Heights100 feet RoadPlot No.538,Sri Swamy Ayyappa Coop Housing Society Ltd, Madhapur
+Hyderabad-500081 and validated by Authorized Medical Practitioner/Lab Doctor

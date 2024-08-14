@@ -1,0 +1,6 @@
+{
+    "question": "get Patient name,Patient age,serum iron,UIBC,serum creatinine,serum phosphorous,blood urea,RBC,MCHC,AEC,ANC,PLT.",
+    "answer": {
+        "Note": "The values are based on the information provided in the report and may not be accurate or up-to-date. Please consult a medical professional for an accurate diagnosis and treatment plan."
+    }
+}

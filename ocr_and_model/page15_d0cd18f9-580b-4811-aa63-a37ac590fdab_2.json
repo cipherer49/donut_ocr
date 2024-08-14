@@ -1,0 +1,23 @@
+{
+    "question": "get all important info in this json format {patient name:etc....,Report Paramaters:{id:some id,name:rbc,unit:rbc unit,value:,biological reference:,{id:some id,name:etc...},....}",
+    "answer": {
+        "Here is the information in JSON format": "",
+        "\"Patient Name\"": "\"Suresh Raju Yavanmandi\",",
+        "\"Barcode\"": "\"E0419809\",",
+        "\"Age/Gender\"": "\"38Y OM0D/Male\",",
+        "\"Sample Collected On\"": "\"06/Feb/2024 05:58AM\",",
+        "\"Order Id\"": "\"10003830280\",",
+        "\"Sample Received On\"": "\"06/Feb/2024 12:26PM\",",
+        "\"Referred By\"": "\"Self\",",
+        "\"Customer Since\"": "\"06/Feb/2024\",",
+        "\"Report Status\"": "\"Final Report\",",
+        "\"Report Parameters\"": "[",
+        "\"id\"": "\"ESR\",",
+        "\"name\"": "\"Erythrocyte Sedimentation Rate (ESR)\",",
+        "\"unit\"": "\"\",",
+        "\"value\"": "\"3\",",
+        "\"biological reference interval\"": "{",
+        "\"lower limit\"": "\"0-10\"",
+        "\"upper limit\"": "\"9\""
+    }
+}

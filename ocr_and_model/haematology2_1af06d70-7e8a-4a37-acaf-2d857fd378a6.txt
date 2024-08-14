@@ -1,0 +1,6 @@
+Question: get Patient name,Patient age,serum iron,UIBC,serum creatinine,serum phosphorous,blood urea,RBC,MCHC,AEC,ANC,PLT.
+
+Answer:
+Suresh Raju | 38 years | Serum Iron | 70.5ug/dL | UIBC | 120ng/dL | Serum Creatinine | 1.2mg/dL | Serum Phosphorous | 4.5mg/dL | Blood Urea | 18mg/dL | RBC | 4.5x10^12/μL | MCHC | 32% | AEC | 100cells/μL | ANC | 7x10^9/μL | PLT | 160x10^9/μL
+
+Note: The values are based on the information provided in the report and may not be accurate or up-to-date. Please consult a medical professional for an accurate diagnosis and treatment plan.

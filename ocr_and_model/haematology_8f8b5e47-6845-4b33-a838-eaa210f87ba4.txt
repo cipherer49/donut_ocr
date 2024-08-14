@@ -1,0 +1,35 @@
+Question: get  important information and values  mentioned in the patients report.
+
+Answer:
+Here is the information I could gather from the patient's report:
+
+**Patient Information**
+
+* Name: Suresh Raju Yavanmandi
+* Age/Gender: 38 years / Male
+* Sample Collected On: 06/Feb/2024 05:58 AM
+* Order Id: 10003830280
+* Referred By: Self Report
+* Generated On: 06/Feb/2024 03:38 PM
+
+**Lab Results**
+
+* Serum Total Protein: (value not mentioned)
+	+ Reference Interval: Not specified
+* Albumin/Globulin Ratio: 1.24 (Reference Interval: 1.2-2.5)
+* SGOT/SGPT Ratio: 1.39 (Reference Interval: 0.7-1.4)
+* Serum Bilirubin:
+	+ Direct (Conjugated): Elevated
+	+ Indirect (Unconjugated): Not specified
+* Alanine Aminotransferase (ALT): (value not mentioned) - Elevated in hepatocellular injury, etc.
+* Alkaline Phosphatase (ALP): (value not mentioned) - Elevated in biliary obstruction, osteoblastic bone tumors, etc.
+* Gamma-Glutamyl Transferase (GGT):
+	+ Activity: Elevated
+	+ Reason for elevation: Not specified (high alcohol consumption, enzyme-including drugs, etc.)
+	+ Obstructive liver disease
+
+**Other Information**
+
+* Sample Type: Serum
+* Report Status: Final Report
+* Department of Biochemistry

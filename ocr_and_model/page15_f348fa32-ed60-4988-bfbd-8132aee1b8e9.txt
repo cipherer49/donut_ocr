@@ -1,0 +1,120 @@
+Question: get all important info in this json format {patient name:etc....,Report Paramaters:{id:some id,name:rbc,unit:rbc unit,value:,biological reference:,{id:some id,name:etc...},....}
+
+Answer:
+Here is the information in JSON format:
+
+```
+{
+  "Patient Name": "Suresh Raju Yavanmandi",
+  "Barcode": "E0419809",
+  "Age/Gender": "38Y OM0D/Male",
+  "Sample Collected On": "06/Feb/2024 05:58AM",
+  "Order Id": "10003830280",
+  "Sample Received On": "06/Feb/2024 12:26PM",
+  "Referred By": "Self",
+  "Customer Since": "06/Feb/2024",
+  "Report Status": "Final Report",
+  
+  "Report Parameters": [
+    {
+      "id": "Absolute Leucocyte Count",
+      "name": "White Blood Cell Count (WBC)",
+      "unit": "",
+      "value": "",
+      "biological reference interval": {
+        "lower limit": "",
+        "upper limit": ""
+      }
+    },
+    {
+      "id": "Absolute Neutrophil Count (ANC)",
+      "name": "Neutrophils",
+      "unit": "10^3/uL",
+      "value": "4.78",
+      "biological reference interval": {
+        "lower limit": "2.0",
+        "upper limit": "7.0"
+      }
+    },
+    {
+      "id": "Absolute Lymphocyte Count (ALC)",
+      "name": "Lymphocytes",
+      "unit": "10^3/uL",
+      "value": "3.44",
+      "biological reference interval": {
+        "lower limit": "1.0",
+        "upper limit": "3.0"
+      }
+    },
+    {
+      "id": "Absolute Monocyte Count",
+      "name": "Monocytes",
+      "unit": "10^3/uL",
+      "value": "660",
+      "biological reference interval": {
+        "lower limit": "0.2",
+        "upper limit": "1.0"
+      }
+    },
+    {
+      "id": "Absolute Eosinophil Count (AEC)",
+      "name": "Eosinophils",
+      "unit": "10^3/uL",
+      "value": "0.35",
+      "biological reference interval": {
+        "lower limit": "0.02",
+        "upper limit": "0.5"
+      }
+    },
+    {
+      "id": "Absolute Basophil Count",
+      "name": "Basophils",
+      "unit": "10^3/uL",
+      "value": "0.05",
+      "biological reference interval": {
+        "lower limit": "0.02",
+        "upper limit": "0.10"
+      }
+    },
+    {
+      "id": "Platelet Count (PLT)",
+      "name": "Thrombocytes",
+      "unit": "10^3/l",
+      "value": "274",
+      "biological reference interval": {
+        "lower limit": "150",
+        "upper limit": "410"
+      }
+    },
+    {
+      "id": "PCT",
+      "name": "Platelet Distribution Width (PDW)",
+      "unit": "%",
+      "value": "16.6",
+      "biological reference interval": {
+        "lower limit": "9.6",
+        "upper limit": "15.2"
+      }
+    },
+    {
+      "id": "MPV",
+      "name": "Mean Platelet Volume (MPV)",
+      "unit": "fL",
+      "value": "8.0",
+      "biological reference interval": {
+        "lower limit": "7",
+        "upper limit": "9"
+      }
+    },
+    {
+      "id": "ESR",
+      "name": "Erythrocyte Sedimentation Rate (ESR)",
+      "unit": "",
+      "value": "3",
+      "biological reference interval": {
+        "lower limit": "0-10"
+      }
+    }
+  ]
+}
+```

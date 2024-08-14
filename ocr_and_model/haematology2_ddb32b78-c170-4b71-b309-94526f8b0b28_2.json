@@ -1,0 +1,9 @@
+{
+    "question": "patient name,patient age,non-hdl ,hdl/ldl,total chol in this format \"patient personal info\":  {id:<random>,patient name:<>,patient age},other info:{id:<random>,etc...}.",
+    "answer": {
+        "Here are the requested values": "",
+        "\"patient personal info\"": "",
+        "{id": "67890, non-hdl:150.1 mg/dl, hdl/ldl:0.30 Ratio, total chol:190.0 mg/dl}",
+        "other info": ""
+    }
+}

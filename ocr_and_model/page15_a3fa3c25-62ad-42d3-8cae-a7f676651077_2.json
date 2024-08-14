@@ -1,0 +1,24 @@
+{
+    "question": "get all important info in this json format {patient name:etc....,Report Paramaters:{id:some id,rbc:etc....,}",
+    "answer": {
+        "Here is the extracted information in JSON format": "",
+        "\"Patient Name\"": "\"Suresh Raju Yavanmandi\",",
+        "\"Age/Gender\"": "\"38Y OM0D/Male\",",
+        "\"Sample Collected On\"": "\"06/Feb/2024 05:58AM\",",
+        "\"Order Id\"": "\"10003830280\",",
+        "\"Referred By\"": "\"Self Report Generated On\",",
+        "\"Customer Since\"": "\"06/Feb/2024\",",
+        "\"Report Parameters\"": "{",
+        "\"Absolute Neutrophil Count (ANC)\"": "\"4.78 ×10^3/uL\",",
+        "\"Absolute Lymphocyte Count (ALC)\"": "\"3.44 ×10^3/uL\",",
+        "\"Absolute Monocyte Count\"": "\"660 ×10^3/uL\",",
+        "\"Absolute Eosinophil Count (AEC)\"": "\"0.35 ×10^3/uL\",",
+        "\"Absolute Basophil Count\"": "\"0.05 ×10^3/uL\",",
+        "\"Platelet Count(PLT)\"": "\"274 ×10^3/l\",",
+        "\"PDW\"": "\"16.6 %\",",
+        "\"MPV\"": "\"8.0 fL\",",
+        "\"PCT\"": "\"0.22 %\",",
+        "\"ESR\"": "\"3 mm/1st hour\"",
+        "\"Report Status\"": "\"Final Report\""
+    }
+}

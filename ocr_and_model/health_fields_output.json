@@ -1,0 +1,30 @@
+{
+    "patient info": {
+        "Patient Information": {
+            "Name": "Suresh Raju Yavanmandi",
+            "Age/Gender": "38Y M (Male)",
+            "Sample Collected On": "06/Feb/2024 05:58 AM",
+            "Order Id": "10003830280",
+            "Referred By": "Self Report"
+        },
+        "Sample Information": {
+            "Barcode": "E0419809",
+            "Sample Type": "Serum",
+            "Sample Temperature Maintained": {},
+            "Sample Received On": "06/Feb/2024 02:06 PM",
+            "Report Status": "Final Report"
+        },
+        "Biochemical Tests": {
+            "Test Name": "Serum Globulin"
+        },
+        "Lab Information": {
+            "Lab Name": "Healthians Labs (A Unit of Expedient Healthcare Marketing Private Limited)",
+            "Address": "Ground floor, Sri Krishna Heights, 100 feet Road, Plot No.538, Sri Swamy Ayyappa Coop Housing Society Ltd, Madhapur, Hyderabad-500081",
+            "Doctor's Signature": "Not given"
+        },
+        "Consultant Biochemist": {
+            "Name": "Dr.R Anitha",
+            "Qualifications": "MBBS, MD Biochemistry"
+        }
+    }
+}

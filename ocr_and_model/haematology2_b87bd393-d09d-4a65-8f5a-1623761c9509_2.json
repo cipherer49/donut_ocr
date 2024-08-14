@@ -1,0 +1,15 @@
+{
+    "question": "get this all values patient name ,patient age  in curly brackets with each value having random id.",
+    "answer": {
+        "Here are the values extracted from the text": "",
+        "1. **Total Cholesterol**": "{190.0 mg/dl, ID: TC-001}",
+        "2. **Serum Triglycerides**": "{130.0 mg/dl, ID: TG-002}",
+        "3. **HDL Cholesterol**": "{39.9 mg/dl, ID: HDL-003}",
+        "4. **LDL Cholesterol**": "{131.0 mg/dl, ID: LDL-004}",
+        "5. **VLDL Cholesterol**": "{19.0 mg/dl, ID: VLDL-005}",
+        "6. **Total CHOL/HDL Ratio**": "{4.76, ID: R1-006}",
+        "7. **LDL/HDL Ratio**": "{3.28, ID: R2-007}",
+        "8. **HDL/LDL Ratio**": "{0.30, ID: R3-008}",
+        "9. **Non-HDL Cholesterol**": "{150.1 mg/dl, ID: NHD-009}"
+    }
+}

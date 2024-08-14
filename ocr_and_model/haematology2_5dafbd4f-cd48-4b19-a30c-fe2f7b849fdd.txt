@@ -1,0 +1,5 @@
+Question: get patient name,age.
+
+Answer:
+Patient Name: Suresh Raju Yavanmandi
+Age: 38 Years

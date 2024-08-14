@@ -1,0 +1,12 @@
+Question: get patient name,PCV values,patient age,platelet count.
+
+Answer:
+Based on the provided text, I can answer your question as follows:
+
+Patient Name: Suresh Raju Yavanmandi
+
+PCV (Packed Cell Volume) values are not mentioned in the text. 
+
+Patient Age: 38 Years, 0 Months, 0 Days (38Y 0M0D)
+
+Platelet Count is also not mentioned in the given text.

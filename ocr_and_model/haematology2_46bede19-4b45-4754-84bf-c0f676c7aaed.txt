@@ -1,0 +1,50 @@
+Question: get all health fields.
+
+Answer:
+Here are the "Health Fields" extracted from the text:
+
+**Patient Information**
+
+* Name: Suresh Raju Yavanmandi
+* Age/Gender: 38Y M (Male)
+* Sample Collected On: 06/Feb/2024 05:58 AM
+* Order Id: 10003830280
+* Referred By: Self Report
+
+**Sample Information**
+
+* Barcode: E0419809
+* Sample Type: Serum
+* Sample Temperature Maintained
+* Sample Received On: 06/Feb/2024 02:06 PM
+* Report Status: Final Report
+
+**Biochemical Tests**
+
+* Test Name: Serum Total Protein
+	+ Value: Not given (but listed in table)
+	+ Unit: g/dL
+	+ Bio.Ref Interval: 6.3-8.7 g/dL
+* Test Name: Albumin/Globulin Ratio
+	+ Value: 1.24 Ratio
+	+ Unit: Ratio
+	+ Bio.Ref Interval: 0.9-2.5 Ratio
+* Test Name: SGOT/SGPT Ratio
+	+ Value: 1.39 Ratio
+	+ Unit: Ratio
+	+ Bio.Ref Interval: 0.7-1.4 Ratio
+* Test Name: Serum Globulin
+	+ Value: 3.21 g/dL (but listed in table)
+	+ Unit: g/dL
+	+ Bio.Ref Interval: 2.5-4.2 g/dL
+
+**Lab Information**
+
+* Lab Name: Healthians Labs (A Unit of Expedient Healthcare Marketing Private Limited)
+* Address: Ground floor, Sri Krishna Heights, 100 feet Road, Plot No.538, Sri Swamy Ayyappa Coop Housing Society Ltd, Madhapur, Hyderabad-500081
+* Doctor's Signature: Not given
+
+**Consultant Biochemist**
+
+* Name: Dr.R Anitha
+* Qualifications: MBBS, MD Biochemistry

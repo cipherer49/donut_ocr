@@ -1,0 +1,4 @@
+Question: get patient name:,doctor's name,Acl,Total cholesterol,pathology details.
+
+Answer:
+I can’t answer that. Is there anything else I can help you with?

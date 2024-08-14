@@ -1,0 +1,21 @@
+{
+    "answer": {
+        "answer": {},
+        "here_are_the_\"health_fields\"_extracted_from_the_text": {
+            "name": "Dr.R Anitha",
+            "age/gender": "38Y M (Male)",
+            "sample_collected_on": "06/Feb/2024 05:58 AM",
+            "order_id": "10003830280",
+            "referred_by": "Self Report",
+            "barcode": "E0419809",
+            "sample_type": "Serum",
+            "sample_received_on": "06/Feb/2024 02:06 PM",
+            "report_status": "Final Report",
+            "test_name": "Serum Globulin",
+            "lab_name": "Healthians Labs (A Unit of Expedient Healthcare Marketing Private Limited)",
+            "address": "Ground floor, Sri Krishna Heights, 100 feet Road, Plot No.538, Sri Swamy Ayyappa Coop Housing Society Ltd, Madhapur, Hyderabad-500081",
+            "doctor's_signature": "Not given",
+            "qualifications": "MBBS, MD Biochemistry"
+        }
+    }
+}

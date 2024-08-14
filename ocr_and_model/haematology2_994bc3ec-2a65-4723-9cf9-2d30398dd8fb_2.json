@@ -1,0 +1,23 @@
+{
+    "question": "get all health fields.",
+    "answer": {
+        "Here are the \"Health Fields\" extracted from the text": "",
+        "* Name": "Dr.R Anitha",
+        "* Age/Gender": "38Y M (Male)",
+        "* Sample Collected On": "06/Feb/2024 05:58 AM",
+        "* Order Id": "10003830280",
+        "* Referred By": "Self Report",
+        "* Barcode": "E0419809",
+        "* Sample Type": "Serum",
+        "* Sample Received On": "06/Feb/2024 02:06 PM",
+        "* Report Status": "Final Report",
+        "* Test Name": "Serum Globulin",
+        "+ Value": "3.21 g/dL (but listed in table)",
+        "+ Unit": "g/dL",
+        "+ Bio.Ref Interval": "2.5-4.2 g/dL",
+        "* Lab Name": "Healthians Labs (A Unit of Expedient Healthcare Marketing Private Limited)",
+        "* Address": "Ground floor, Sri Krishna Heights, 100 feet Road, Plot No.538, Sri Swamy Ayyappa Coop Housing Society Ltd, Madhapur, Hyderabad-500081",
+        "* Doctor's Signature": "Not given",
+        "* Qualifications": "MBBS, MD Biochemistry"
+    }
+}

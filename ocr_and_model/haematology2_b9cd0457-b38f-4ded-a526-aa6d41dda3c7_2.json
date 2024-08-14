@@ -1,0 +1,21 @@
+{
+    "question": "get all the important fields.",
+    "answer": {
+        "Sure! Here are the important fields that can be extracted from the provided text": "",
+        "1. Test Name": "The test name is \"Serum Total Protein\".",
+        "2. Value": "The value of the test is 70 g/L.",
+        "3. Unit": "The unit of measurement for the test is \"g/L\".",
+        "4. Reference Interval": "The reference interval for the test is \"65-80 g/L\".",
+        "5. Age/Gender": "The patient's age and gender are 38 years old and male, respectively.",
+        "6. Sample Collected": "The sample was collected on February 6, 2024, at 5:58 AM.",
+        "7. Order ID": "The order ID for the test is \"10003830280\".",
+        "8. Sample Received": "The sample was received by Healthians Labs on February 6, 2024, at 2:06 PM.",
+        "9. Referred By": "The patient referred themselves to the lab.",
+        "10. Report Status": "The report status is \"Final Report\".",
+        "11. Department": "The department that performed the test is \"Biochemistry\".",
+        "12. Test Name Value Unit Bio.Ref Interval dgHghAnl s mybe immnioning and his BM ymaWns e.": "The text mentions the name of another biochemical test, \"Serum Total Protein\", along with its value and unit of measurement.",
+        "13. Lowrnnom's": "The text mentions a possible cause of low blood albumin levels, which is \"Livr isease ike cirhosis othe liver\".",
+        "14. Nephrotic - Human serum albumin": "The text mentions the importance of human serum albumin in the blood plasma and its production in the liver.",
+        "15. MBBS,MD Biochemistry Dr.R Anitha Consultant Biochemist": "The text provides information about the doctor who performed the test, including their qualifications and profession."
+    }
+}

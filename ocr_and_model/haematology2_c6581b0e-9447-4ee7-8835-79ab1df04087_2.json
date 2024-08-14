@@ -1,0 +1,23 @@
+{
+    "question": "get patient info and thes health parameters:serum creatinine,serum phosphorous,blood urea,TLC,PCV,RBC,LDL/HDL cholesterol ratio,ALT/SGPT.",
+    "answer": {
+        "Based on the provided text, here is the requested information about the patient": "",
+        "**Patient Information": "**",
+        "* Name": "Suresh Raju Yavanmandi",
+        "* Age/Gender": "38 years old / Male",
+        "* Sample Collected On": "06/Feb/2024 (time not specified)",
+        "* Order Id": "10003830280",
+        "* Sample Received On": "06/Feb/202402:06PM",
+        "* Referred By": "Self Report",
+        "* Generated On": "06/Feb/202403:38PM",
+        "**Health Parameters": "**",
+        "1. **Serum Creatinine": "** Not provided",
+        "2. **Serum Phosphorous": "** Not provided",
+        "3. **Blood Urea": "** Not provided",
+        "4. **TLC (Total Leukocyte Count)": "** Not provided",
+        "5. **PCV (Packed Cell Volume) / HCT (Hemoglobin Concentration)": "** Not provided",
+        "6. **RBC (Red Blood Cells)": "** Not provided",
+        "7. **LDL/HDL Cholesterol Ratio": "** 1.39 (Value), Ratio 1.2-2.5 (Reference Interval)",
+        "8. **ALT/SGPT Ratio": "** 0.7 (Value), Ratio 0.7-1.4 (Reference Interval)"
+    }
+}

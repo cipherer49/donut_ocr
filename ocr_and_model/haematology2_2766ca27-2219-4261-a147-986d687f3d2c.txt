@@ -1,0 +1,4 @@
+Question: patient name,patient age.
+
+Answer:
+The patient's name is Suresh Raju, and he is 38 years old (male).
