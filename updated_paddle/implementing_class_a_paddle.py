@@ -8,10 +8,10 @@ from PIL import Image
 from transformers import DonutProcessor,VisionEncoderDecoderModel
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 #path of images and json
-img =  Image.open("data/more_files/doctor_bill/doctor_bill.jpg").convert('RGB')# for  donut  class converted mode = rgb
-img_path = "data/more_files/doctor_bill/doctor_bill.jpg" #mode = default path for paddle
-ocr_json_path = 'data/more_files/doctor_bill/doctor_bill_paddle+class.json'
-ocr_query_json_path = 'data/more_files/doctor_bill/doctor_bill_query.json'
+img =  Image.open("data/reimbursement/page_1.jpg").convert('RGB')# for  donut  class converted mode = rgb
+img_path = "data/reimbursement/page_1.jpg" #mode = default path for paddle
+ocr_json_path = 'data/reimbursement/page_1_paddle+class.json'
+ocr_query_json_path = 'data/page_1_query.json'
 #writing a class to fit all functions
 class all_func():
     
@@ -56,6 +56,7 @@ class all_func():
 
         #convert the reponse to json
         self.result = processor.token2json(seq)
+        
         self.class_lines = []
         self.class_lines.append(self.result)
 

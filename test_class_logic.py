@@ -1,8 +1,13 @@
-def a():
-    ar = 10
-    br = 20
-def b():
-    a()
-    print(a,b)
+a = "red sea"
+b = "blue sea"
 
-a()
+class sea():
+
+    def check(self):
+        if a  == "red sea":
+            print("yes")
+        else:
+            print("no")
+
+c = sea()
+c.check()

@@ -8,7 +8,7 @@ ocr = PaddleOCR(use_angle_cls=True, lang='en')
 structure = PPStructure(recovery=True)
 
 # Path to the document image
-image_path = 'data/page_15.jpg'
+image_path = 'data/more_files/apollo_pharma_invoice/apollo_pharma_1.jpg'
 
 # Use PaddleOCR's default font
 default_font_path = os.path.join(os.path.dirname(__file__), 'paddleocr', 'ppocr', 'utils', 'simsun.ttc')

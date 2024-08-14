@@ -46,7 +46,7 @@ llm = initialize_llama_model()
 
 if __name__ == "__main__":
     while True:
-        file_path = "donut_ocr/llama_all/data/combine_pdf_1_paddle+class.json"
+        file_path = "data/more_files/apollo_pharma_invoice/apollo_pharma_paddle.json"
         if file_path.lower() == "exit":
             break
         
